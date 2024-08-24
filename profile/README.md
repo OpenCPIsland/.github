@@ -4,7 +4,7 @@ Open CPI is a non-profit Club Penguin Island private server. We do not profit fr
 
 We are excited to announce that the source code and built exes of the parties are now live.
 
-The source code can be found here: [CPIsland Unity Project](https://archive.org/details/cpisland-unity-project-7-1-2024.7z)
+The source code can be found here for Windows, Linux, and MacOS: [CPIsland Unity Project](https://archive.org/details/cpisland-unity-project-7-1-2024.7z)
 
 Available parties:
 - [Anniversary 2018](https://archive.org/download/cpisland-unity-project-7-1-2024.7z/Anniversary%202018.7z)
