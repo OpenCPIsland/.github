@@ -9,7 +9,7 @@ We’re excited to announce that the source code and party builds are now availa
 ## Download & Build
 
 You can find the source code and built executables for Windows, Linux, and macOS here:  
-[CPI Project](https://github.com/CP-Island-Localhost-Server/CPI-Project)
+[CPI Project](https://github.com/OpenCPIsland/CPI-Project)
 
 ## Join Us
 
