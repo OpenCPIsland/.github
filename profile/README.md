@@ -6,10 +6,13 @@ In addition to preserving the game, we also aim at adding new features and fixin
 
 We’re excited to announce that the source code and party builds are now available.
 
-## Download & Build
+## Source code
 
-You can find the source code and built executables for Windows, Linux, Mobile platforms, and macOS here:  
+You can find the source code here:  
 [CPI Project](https://github.com/OpenCPIsland/CPI-Project)
+
+## **Builds can be found here:**
+- [Builds](https://wednesday2024.itch.io/opencpi)
 
 ## Join Us
 
