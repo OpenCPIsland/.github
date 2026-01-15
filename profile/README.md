@@ -12,7 +12,7 @@ You can find the source code here:
 [CPI Project](https://github.com/OpenCPIsland/CPI-Project)
 
 ## **Builds can be found here:**
-- [Builds](https://opencpisland.github.io/)
+- [Builds](https://github.com/OpenCPIsland/builds/releases/download/stable/Windows_Regular.zip)
 
 ## Join Us
 
